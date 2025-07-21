@@ -29,9 +29,13 @@ These metrics follow [Core Web Vitals](https://web.dev/vitals/) recommended by G
 
 .
 ├── apps/ # React and Svelte app variations
+
 ├── benchmarking/ # Lighthouse CI config and performance result outputs
+
 ├── mock-api/ # Static JSON-based mock API
+
 ├── README.md
+
 └── ...
 
 
