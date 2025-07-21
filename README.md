@@ -2,7 +2,7 @@
 
 **Comparative Benchmarking of React and Svelte Frameworks under Web Performance Optimization Techniques Based on User-Centric Metrics**
 
-This project benchmarks the performance of two frontend frameworks — **React** and **Svelte** — using user-centric web performance metrics, both in **baseline** condition and after applying **individual optimization strategies**.
+This project benchmarks the performance of two frontend frameworks (**React** and **Svelte**) using user-centric web performance metrics, both in **baseline** condition and after applying **individual optimization strategies**.
 
 ---
 
