@@ -27,7 +27,6 @@ These metrics follow [Core Web Vitals](https://web.dev/vitals/) recommended by G
 
 ## 🗂️ Folder Structure
 
-.
 ├── apps/ # React and Svelte app variations
 
 ├── benchmarking/ # Lighthouse CI config and performance result outputs
